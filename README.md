@@ -1,1 +1,1 @@
-# slot-game
+Game Paper-Stone-Scissor for Manu proyect 
