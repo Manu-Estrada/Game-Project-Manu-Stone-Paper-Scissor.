@@ -1,1 +1,1 @@
-Game-Project-Manu-Paper-Stone-Scissor 
+Game-Project-Manu-Paper-Stone-Scissor.
